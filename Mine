@@ -63,3 +63,26 @@ http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/590322.ts
 http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/590321.ts
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/osntvyahala.png" group-title="OSN",YAHALA BIL ARABI
 http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/590350.ts
+#EXTINF:-1 tvg-chno=“1” tvg-name=“AlEkhbariya” group-title=“News - الأخبار”,AlEkhbariya
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720110.ts
+#EXTINF:-1 tvg-chno=“2” tvg-name=“AlArabiya” tvg-logo=“https://shahid.mbc.net/mediaObject/a4c125db-ede8-4970-9eed-963948c78651?height=auto&width=512&croppingPoint=&version=1&type=png” group-title=“News - الأخبار”,AlArabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8
+#EXTINF:-1 tvg-chno=“3” tvg-name=“AlArabiya Business” tvg-logo=“https://shahid.mbc.net/mediaObject/73142189-aeca-4f65-8977-d769c91e2573?height=auto&width=600&croppingPoint=&version=1&type=png” group-title=“News - الأخبار”,AlArabiya Business
+#EXTINF:-1 tvg-chno=“4” tvg-name=“AlArabiya Programs” tvg-logo=“https://i.imgur.com/Hoc3cfO.png” group-title=“News - الأخبار”,AlArabiya Programs
+https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno=“5” tvg-name=“Alarabiya English” tvg-logo=“https://english.alarabiya.net/.resources/aa-fe-templating/webresources/dist/assets/gfx/logo/en-night-logo.svg” group-title=“News - الأخبار”,Alarabiya English
+https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
+#EXTINF:-1 tvg-chno=“6” tvg-name=“AlHadath” tvg-logo=“https://i.imgur.com/De4SEWE.png” group-title=“News - الأخبار”,AlHadath
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720108.ts
+#EXTINF:-1 tvg-chno=“7” tvg-name=“BBC World” tvg-logo=“https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png” group-title=“News - الأخبار”,BBC World
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720090.ts
+#EXTINF:-1 tvg-chno=“8” tvg-name=“CNBC” tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/CNBC_Arabia_2025.svg/960px-CNBC_Arabia_2025.svg.png” group-title=“News - الأخبار”,CNBC
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720081.ts
+#EXTINF:-1 tvg-chno=“9” tvg-name=“CNN” tvg-logo=“https://i.imgur.com/8WXOnLF.png” group-title=“News - الأخبار”,CNN
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720080.ts
+#EXTINF:-1 tvg-chno=“10” tvg-name=“RT Today” tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/960px-Russia-today-logo.svg.png” group-title=“News - الأخبار”,RT Today
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720033.ts
+#EXTINF:-1 tvg-chno=“11” tvg-name=“Sky News” tvg-logo=“https://i.imgur.com/NI2728P.png” group-title=“News - الأخبار”,Sky News
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720023.ts
+#EXTINF:-1 tvg-chno=“12” tvg-name=“TRT” tvg-logo=“https://i.imgur.com/dEfI2M9.png” group-title=“News - الأخبار”,TRT
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286339.ts
