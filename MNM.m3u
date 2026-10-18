@@ -1,3 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="BEIN",BEIN 1
 http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/285643.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="BEIN",BEIN 2
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/285642.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="BEIN",BEIN 3
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/285641.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vwAgJNi.png" group-title="BEIN",BEIN 4
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/285640.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Rha5aY.png" group-title="BEIN",BEIN 5
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/285639.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0wBdLYb.png" group-title="BEIN",BEIN 6
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/285638.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iODFwZi.png" group-title="BEIN",BEIN 7
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/285637.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CaFEyVn.png" group-title="BEIN",BEIN 8
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/285636.ts
