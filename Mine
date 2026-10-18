@@ -61,3 +61,5 @@ http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/590350.ts
 http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/590322.ts
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/osntvnow.png" group-title="OSN",OSN Now
 http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/590321.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/osntvyahala.png" group-title="OSN",YAHALA BIL ARABI
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/590350.ts
