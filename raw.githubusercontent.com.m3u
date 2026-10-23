@@ -1,36 +1,182 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/d/dd/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D8%A9_%28%D9%85%D9%86%D8%B5%D8%A9%29.svg/330px-%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D8%A9_%28%D9%85%D9%86%D8%B5%D8%A9%29.svg.png" group-title="THAMANYAH - ثمانية",THAMANYAH 1
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/322612.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/d/dd/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D8%A9_%28%D9%85%D9%86%D8%B5%D8%A9%29.svg/330px-%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D8%A9_%28%D9%85%D9%86%D8%B5%D8%A9%29.svg.png" group-title="THAMANYAH - ثمانية",THAMANYAH 2
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/322611.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/d/dd/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D8%A9_%28%D9%85%D9%86%D8%B5%D8%A9%29.svg/330px-%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D8%A9_%28%D9%85%D9%86%D8%B5%D8%A9%29.svg.png" group-title="THAMANYAH - ثمانية",THAMANYAH 3
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/326572.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mJEGaQ8.png" group-title="ROTANA - روتانا",ROTANA +
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720049.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DLDfFpu.png" group-title="ROTANA - روتانا",ROTANA AFLAM+
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720048.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HOnRZaL.png" group-title="ROTANA - روتانا",ROTANA AMERICA
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720047.ts
-#EXTINF:-1 tvg-id="Rotana Cinema.sa" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="ROTANA - روتانا",ROTANA CINEMA KSA
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720046.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="ROTANA - روتانا",ROTANA CINEMA MASR
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720045.ts
-#EXTINF:-1 tvg-id="Rotana Classic.sa" tvg-logo="https://i.imgur.com/pMMUvkt.png" group-title="ROTANA - روتانا",ROTANA CLASSIC
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720044.ts
-#EXTINF:-1 tvg-id="Rotana Clip.sa" tvg-logo="https://i.imgur.com/nhREk0o.png" group-title="ROTANA - روتانا",ROTANA CLIP
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720043.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IlT8U6S.png" group-title="ROTANA - روتانا",ROTANA COMEDY
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720042.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/btnhPjZ.png" group-title="ROTANA - روتانا",ROTANA DRAMA
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720041.ts
-#EXTINF:-1 tvg-id="Rotana Khalijia.sa" tvg-logo="https://i.imgur.com/6HMluzv.png" group-title="ROTANA - روتانا",ROTANA KHALIJYAH
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720040.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YQKf0tq.png" group-title="ROTANA - روتانا",ROTANA KIDS
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720039.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ho8N310.png" group-title="ROTANA - روتانا",ROTANA M+
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720038.ts
-#EXTINF:-1 tvg-id="Rotana Music.sa" tvg-logo="https://i.imgur.com/2zFQbQi.png" group-title="ROTANA - روتانا",ROTANA MUSIC
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720037.ts
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/e31a074b-051d-48d3-aec1-87f1972c48f1?height=NaN&width=216&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",ABDULAMJED ABDULLAH
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698099.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nationalgeographicabudhabi.png" group-title="DOCU - وثائقي",ABU DHABI NAT GEO
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720056.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W46Sxr0h/AL-MAJD-DOCUMENTARY.png" group-title="DOCU - وثائقي",ALAMAJD DOCU
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/270110.ts
+#EXTINF:-1 tvg-id="Al Arabiya.sa" tvg-logo="https://shahid.mbc.net/mediaObject/a4c125db-ede8-4970-9eed-963948c78651?height=auto&width=512&croppingPoint=&version=1&type=png" group-title="NEWS - الاخبار",AlArabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7hdGFGt/5BA38145-866A-4732-80E0-82C1D80E49C4.png" group-title="NEWS - الاخبار",Alarabiya English
+https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hoc3cfO.png" group-title="NEWS - الاخبار",AlArabiya Programs
+https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/93e4e487-4b68-4525-9513-32165da4866a?height=auto&width=144&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",ALASOUF
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698093.ts
+#EXTINF:-1 tvg-id="Al Ekhbaria HD.sa" tvg-logo="https://aloula.faulio.com/storage/mediagallery/11/78/fullhd_3b55efbef523c3a6d6e45d8c5a2d28b86bdf4117.png" group-title="NEWS - الاخبار",AlEkhbariya
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720110.ts
+#EXTINF:-1 tvg-id="Al Hadath.sa" tvg-logo="https://i.imgur.com/De4SEWE.png" group-title="NEWS - الاخبار",AlHadath
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720108.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="NEWS - الاخبار",AlJazeera 1
+https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/miq8O1Q.png" group-title="NEWS - الاخبار",AlJazeera 2
+https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/aljazeeradocumentary.png" group-title="DOCU - وثائقي",ALJAZEERA DOCU
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/270113.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/aljazeeramubasher.png" group-title="NEWS - الاخبار",AlJazeera Live
+https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/index.m3u8
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/4c6b1637-df6b-44ca-95ea-e922b404a2ef?height=NaN&width=216&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",ALKABEER AWI
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698077.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/10mmlha.png" group-title="AR SPORTS - الرياضه العربيه",ALKASS 1
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/268327.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="AR SPORTS - الرياضه العربيه",ALKASS 2
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/268326.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d57BdFh.png" group-title="AR SPORTS - الرياضه العربيه",ALKASS 3
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/268325.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="AR SPORTS - الرياضه العربيه",ALKASS 4
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/268324.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6RGNGsM.png" group-title="AR SPORTS - الرياضه العربيه",ALKASS 5
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/268323.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CrPSPSC.png" group-title="AR SPORTS - الرياضه العربيه",ALKASS 6
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/268322.ts
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/c095ee82-2562-47f6-bddb-13f4985bf78c?height=NaN&width=216&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",ALKHUZAMA
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698087.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/alrabiaatv.png" group-title="AR SPORTS - الرياضه العربيه",ALRABEA
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/269013.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/asharqnews.png" group-title="NEWS - الاخبار",AlSharq
+https://live-news.asharq.com/asharq.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4Nq8cXJN/Al-Wathaeqya.png" group-title="DOCU - وثائقي",ALWATHAEQYAH
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/270112.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/osnanimalplanet.png" group-title="DOCU - وثائقي",ANIMAL PLANET
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720097.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/asharqdiscovery.png" group-title="DOCU - وثائقي",ASHARQ DISCOVERY
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720095.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v6VsFEt.png" group-title="DOCU - وثائقي",ASHARQ DOCU
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720094.ts
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/c70e4088-d219-44c9-a998-0fca701ad0b5?height=NaN&width=216&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",BAB ALHARA
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698080.ts
+#EXTINF:-1 tvg-id="Bahrain TV.sa" tvg-logo="https://i.imgur.com/ZEUsGNl.png" group-title="GULF - الخليج",BAHRAIN ONE
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720092.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G22gvpT9/1743223284911.png" group-title="AR SPORTS - الرياضه العربيه",BAHRAIN SPORTS
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720093.ts
+#EXTINF:-1 tvg-id="BBC World.sa" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="NEWS - الاخبار",BBC World
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720090.ts
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/38f278fd-e5c1-4cd2-9d30-843550491236?height=NaN&width=216&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",BIG TIME
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698079.ts
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/4e042cb6-500b-4e4c-a8ca-21a5a7a7a71b?height=NaN&width=216&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",BIG TIME +
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698078.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/cgtndocumentary.png" group-title="DOCU - وثائقي",CGTN
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/270107.ts
+#EXTINF:-1 tvg-id="CNBC Arabia.sa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/CNBC_Arabia_2025.svg/960px-CNBC_Arabia_2025.svg.png" group-title="NEWS - الاخبار",CNBC
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720081.ts
+#EXTINF:-1 tvg-id="CNN HD.sa" tvg-logo="https://i.imgur.com/8WXOnLF.png" group-title="NEWS - الاخبار",CNN
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720080.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/discovery.png" group-title="DOCU - وثائقي",DISCOVERY
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720079.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/discoveryfamily.png" group-title="DOCU - وثائقي",DISCOVERY FAMILY
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720078.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/250px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCU - وثائقي",DISCOVERY ID
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720077.ts
+#EXTINF:-1 tvg-id="Dubai Racing 1 HD.sa" tvg-logo="https://i.imgur.com/CJ1dagP.png" group-title="AR SPORTS - الرياضه العربيه",DUBAI RACING 1
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720072.ts
+#EXTINF:-1 tvg-id="Dubai Racing 2 HD.sa" tvg-logo="https://i.imgur.com/CJ1dagP.png" group-title="AR SPORTS - الرياضه العربيه",DUBAI RACING 2
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720071.ts
+#EXTINF:-1 tvg-id="Dubai Sports 1 HD.sa" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/dubai-sports-tv-ae.png" group-title="AR SPORTS - الرياضه العربيه",DUBAI SPORTS 1
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720070.ts
+#EXTINF:-1 tvg-id="Dubai Sports 2 HD.sa" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/dubai-sports-tv-ae.png" group-title="AR SPORTS - الرياضه العربيه",DUBAI SPORTS 2
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720069.ts
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/b731f966-55cb-4b6d-a326-9521cbea9f93?height=NaN&width=216&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",FAIROUZ
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698075.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/foodnetwork.png" group-title="DOCU - وثائقي",FOOD NETWORK
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720067.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/hgtv.png" group-title="DOCU - وثائقي",HGTV
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720064.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/history.png" group-title="DOCU - وثائقي",HISTORY 1
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/590309.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/history2.png" group-title="DOCU - وثائقي",HISTORY 2
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/590308.ts
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/4cd869f9-10d9-4d94-bdc3-be2fc096064f?height=auto&width=144&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",JAK ALELM
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698072.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y21PZM4s/kuwait-tv-logo-7-C4-DB4-FA0-F-seeklogo-com.png" group-title="GULF - الخليج",KUWAIT 1
+https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/ktv2.png" group-title="GULF - الخليج",KUWAIT 2
+https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/naVEZtj.png" group-title="GULF - الخليج",KUWAIT ALQURAIN
+https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/alraitv.png" group-title="GULF - الخليج",KUWAIT ALRAI
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286656.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jg3VAxO.png" group-title="GULF - الخليج",KUWAIT ARABE
+https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/ktvethraa.png" group-title="GULF - الخليج",KUWAIT ATHRAA
+https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYJ5Q8YG/IMG-2243.png" group-title="GULF - الخليج",KUWAIT NEWS
+https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/ktvsport1.png" group-title="GULF - الخليج",KUWAIT SPORTS 1
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/ktvsport1.png" group-title="GULF - الخليج",KUWAIT SPORTS 2
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QMUjPXx.png" group-title="ARAB - عربي",LEB ALITIHAD
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286082.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/aljadeed.png" group-title="ARAB - عربي",LEB ALJADEED
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286110.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/almanar.png" group-title="ARAB - عربي",LEB ALMANAR
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286087.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/almayadeentv.png" group-title="ARAB - عربي",LEB ALMAYADEEN
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286084.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/futuretv.png" group-title="ARAB - عربي",LEB FUTURE
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286083.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/halalondon.png" group-title="ARAB - عربي",LEB HALA LONDON
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286080.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/ifilmarabic.png" group-title="ARAB - عربي",LEB IFILM
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286081.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/lbc.png" group-title="ARAB - عربي",LEB LBC
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286095.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/mtvlebanon.png" group-title="ARAB - عربي",LEB MTV
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286108.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nbn.png" group-title="ARAB - عربي",LEB NBN
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286106.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/onetv.png" group-title="ARAB - عربي",LEB ONE TV
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286104.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/otv.png" group-title="ARAB - عربي",LEB OTV
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286102.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWwY885.png" group-title="ARAB - عربي",LEB RED
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/477245.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/itele.png" group-title="ARAB - عربي",LEB TELE
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286100.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrxKb0JX/IMG-8585.png" group-title="ARAB - عربي",LEB THAQALAYN
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286085.ts
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/afc1c1f9-2b07-48f6-8141-2d146a48979c?height=NaN&width=216&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",MAJED ALMOHANDIS
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698069.ts
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/d089a559-4f41-4def-a786-f98fcfbf0464?height=auto&width=144&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",MARAYA
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698068.ts
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/5022e869-5a09-4066-b7ff-cfb0901f4fa8?height=auto&width=144&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",MASRH MASR
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698067.ts
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/ad2793c4-5722-49e3-a44c-97d5cbd5f042?height=auto&width=144&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",MBC FM
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698102.ts
+#EXTINF:-1 tvg-id="MBC Iraq.sa" tvg-logo="https://i.imgur.com/D0LxiPE.png" group-title="MBC - ام بي سي",MBC IRAQ
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698108.ts
+#EXTINF:-1 tvg-id="MBC Masr.sa" tvg-logo="https://i.imgur.com/o2elx0u.png" group-title="MBC - ام بي سي",MBC MASR
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698106.ts
+#EXTINF:-1 tvg-id="MBC Masr2.sa" tvg-logo="https://i.imgur.com/KHo7Gtn.png" group-title="MBC - ام بي سي",MBC MASR 2
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698105.ts
+#EXTINF:-1 tvg-logo="https://media0070.elcinema.com/tvguide/1399_1.png" group-title="MBC - ام بي سي",MBC MASR DRAMA
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698107.ts
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/ecdd8fe3-509a-49a1-82bd-a0ad619093a3?height=NaN&width=216&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",MOHAMMED ABDU
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698066.ts
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/10155ab0-81cb-4ee6-a4f7-8c7b8ad11063?height=NaN&width=216&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",NASSER ALQASABI
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698062.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nationalgeographic.png" group-title="DOCU - وثائقي",NAT GEO
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720057.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/natgeowild.png" group-title="DOCU - وثائقي",NAT GEO WILD
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720055.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/omantvcultural.png" group-title="GULF - الخليج",OMAN MUBASHER
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720053.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/omantv.png" group-title="GULF - الخليج",OMAN ONE
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720051.ts
+#EXTINF:-1 tvg-id="Oman TV Sport.sa" tvg-logo="https://i.imgur.com/1omi7p8.png" group-title="AR SPORTS - الرياضه العربيه",OMAN SPORTS
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720052.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/omantv.png" group-title="GULF - الخليج",OMAN THAKAFIYAH
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720054.ts
 #EXTINF:-1 tvg-id="OSNtv Movies Comedy.sa" tvg-logo="https://logo.m3uassets.com/osntvcomedy.png" group-title="OSN - او اس ان",OSN COMEDY
 http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/590329.ts
 #EXTINF:-1 tvg-id="OSNtv Crime.sa" tvg-logo="https://logo.m3uassets.com/osntvcrime.png" group-title="OSN - او اس ان",OSN CRIME
@@ -63,136 +209,6 @@ http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/590350.ts
 http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/590350.ts
 #EXTINF:-1 tvg-id="OSNtv Yahala Aflam.sa" tvg-logo="https://logo.m3uassets.com/osntvyahalaaflam.png" group-title="OSN - او اس ان",OSN YAHLA AFLAM
 http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/590347.ts
-#EXTINF:-1 tvg-id="Al Arabiya.sa" tvg-logo="https://shahid.mbc.net/mediaObject/a4c125db-ede8-4970-9eed-963948c78651?height=auto&width=512&croppingPoint=&version=1&type=png" group-title="NEWS - الاخبار",AlArabiya
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7hdGFGt/5BA38145-866A-4732-80E0-82C1D80E49C4.png" group-title="NEWS - الاخبار",Alarabiya English
-https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hoc3cfO.png" group-title="NEWS - الاخبار",AlArabiya Programs
-https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Al Ekhbaria HD.sa" tvg-logo="https://aloula.faulio.com/storage/mediagallery/11/78/fullhd_3b55efbef523c3a6d6e45d8c5a2d28b86bdf4117.png" group-title="NEWS - الاخبار",AlEkhbariya
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720110.ts
-#EXTINF:-1 tvg-id="Al Hadath.sa" tvg-logo="https://i.imgur.com/De4SEWE.png" group-title="NEWS - الاخبار",AlHadath
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720108.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="NEWS - الاخبار",AlJazeera 1
-https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/miq8O1Q.png" group-title="NEWS - الاخبار",AlJazeera 2
-https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/aljazeeramubasher.png" group-title="NEWS - الاخبار",AlJazeera Live
-https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/asharqnews.png" group-title="NEWS - الاخبار",AlSharq
-https://live-news.asharq.com/asharq.m3u8
-#EXTINF:-1 tvg-id="BBC World.sa" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="NEWS - الاخبار",BBC World
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720090.ts
-#EXTINF:-1 tvg-id="CNBC Arabia.sa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/CNBC_Arabia_2025.svg/960px-CNBC_Arabia_2025.svg.png" group-title="NEWS - الاخبار",CNBC
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720081.ts
-#EXTINF:-1 tvg-id="CNN HD.sa" tvg-logo="https://i.imgur.com/8WXOnLF.png" group-title="NEWS - الاخبار",CNN
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720080.ts
-#EXTINF:-1 tvg-id="RT Arabic.sa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/960px-Russia-today-logo.svg.png" group-title="NEWS - الاخبار",RT Today
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720033.ts
-#EXTINF:-1 tvg-id="Sky News Arabia HD.sa" tvg-logo="https://i.imgur.com/NI2728P.png" group-title="NEWS - الاخبار",Sky News
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720023.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dEfI2M9.png" group-title="NEWS - الاخبار",TRT
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286339.ts
-#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/e31a074b-051d-48d3-aec1-87f1972c48f1?height=NaN&width=216&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",ABDULAMJED ABDULLAH
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698099.ts
-#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/93e4e487-4b68-4525-9513-32165da4866a?height=auto&width=144&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",ALASOUF
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698093.ts
-#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/4c6b1637-df6b-44ca-95ea-e922b404a2ef?height=NaN&width=216&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",ALKABEER AWI
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698077.ts
-#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/c095ee82-2562-47f6-bddb-13f4985bf78c?height=NaN&width=216&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",ALKHUZAMA
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698087.ts
-#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/c70e4088-d219-44c9-a998-0fca701ad0b5?height=NaN&width=216&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",BAB ALHARA
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698080.ts
-#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/38f278fd-e5c1-4cd2-9d30-843550491236?height=NaN&width=216&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",BIG TIME
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698079.ts
-#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/4e042cb6-500b-4e4c-a8ca-21a5a7a7a71b?height=NaN&width=216&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",BIG TIME +
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698078.ts
-#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/b731f966-55cb-4b6d-a326-9521cbea9f93?height=NaN&width=216&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",FAIROUZ
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698075.ts
-#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/4cd869f9-10d9-4d94-bdc3-be2fc096064f?height=auto&width=144&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",JAK ALELM
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698072.ts
-#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/afc1c1f9-2b07-48f6-8141-2d146a48979c?height=NaN&width=216&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",MAJED ALMOHANDIS
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698069.ts
-#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/5022e869-5a09-4066-b7ff-cfb0901f4fa8?height=auto&width=144&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",MASRH MASR
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698067.ts
-#EXTINF:-1 tvg-id="MBC Iraq.sa" tvg-logo="https://i.imgur.com/D0LxiPE.png" group-title="MBC - ام بي سي",MBC IRAQ
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698108.ts
-#EXTINF:-1 tvg-id="MBC Masr.sa" tvg-logo="https://i.imgur.com/o2elx0u.png" group-title="MBC - ام بي سي",MBC MASR
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698106.ts
-#EXTINF:-1 tvg-id="MBC Masr2.sa" tvg-logo="https://i.imgur.com/KHo7Gtn.png" group-title="MBC - ام بي سي",MBC MASR 2
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698105.ts
-#EXTINF:-1 tvg-logo="https://media0070.elcinema.com/tvguide/1399_1.png" group-title="MBC - ام بي سي",MBC MASR DRAMA
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698107.ts
-#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/ecdd8fe3-509a-49a1-82bd-a0ad619093a3?height=NaN&width=216&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",MOHAMMED ABDU
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698066.ts
-#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/10155ab0-81cb-4ee6-a4f7-8c7b8ad11063?height=NaN&width=216&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",NASSER ALQASABI
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698062.ts
-#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/05c16887-0b0f-4e38-9a46-a32a1ab91cb3?height=NaN&width=216&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",RABEH SAQR
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698060.ts
-#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/51da140c-00ea-45b9-a7a9-b9617ca26000?height=NaN&width=216&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",RASHED ALMAJED
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698059.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NIVhISa.png" group-title="MBC - ام بي سي",SHAHID ACTION
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698065.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cTLj7Yt.png" group-title="MBC - ام بي سي",SHAHID AFLAM
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698098.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="MBC - ام بي سي",SHAHID THRILLER
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698064.ts
-#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/36c50d62-e95c-4f85-8d32-8e517f5123fc?height=auto&width=144&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",TARAB
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698057.ts
-#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/8732de71-79e9-4915-a4a4-16297f9bd8a5?height=NaN&width=216&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",TASH
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698056.ts
-#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/6364fbe1-aa81-4d23-8d88-3fbc26c7f8f1?height=auto&width=144&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",THE GAME
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698076.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nLtiXNf.png" group-title="MBC - ام بي سي",WANASA
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698052.ts
-#EXTINF:-1 tvg-id="MBC 1.sa" tvg-logo="https://i.postimg.cc/P5YPRC3c/IMG-8508.png" tvg-chno="1" group-title="MBC - ام بي سي",MBC 1
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698115.ts
-#EXTINF:-1 tvg-id="MBC 2.sa" tvg-logo="https://i.imgur.com/n9mSHuP.png" tvg-chno="2" group-title="MBC - ام بي سي",MBC 2
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698114.ts
-#EXTINF:-1 tvg-id="MBC 3.sa" tvg-logo="https://i.imgur.com/PVt8OPN.png" tvg-chno="3" group-title="MBC - ام بي سي",MBC 3
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698113.ts
-#EXTINF:-1 tvg-id="MBC 4.sa" tvg-logo="https://i.imgur.com/BcXASJp.png" tvg-chno="4" group-title="MBC - ام بي سي",MBC 4
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698112.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fRWaDyF.png" tvg-chno="5" group-title="MBC - ام بي سي",MBC 5
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698111.ts
-#EXTINF:-1 tvg-id="MBC Action.sa" tvg-logo="https://i.imgur.com/OWZAghw.png" tvg-chno="6" group-title="MBC - ام بي سي",MBC ACTION
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698104.ts
-#EXTINF:-1 tvg-id="MBC Bollywood.sa" tvg-logo="https://i.imgur.com/TTAGFHG.png" tvg-chno="7" group-title="MBC - ام بي سي",MBC BOLLYWOOD
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698103.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A02CptP.png" tvg-chno="8" group-title="MBC - ام بي سي",MBC MAX
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698101.ts
-#EXTINF:-1 tvg-id="MBC Drama.sa" tvg-logo="https://i.imgur.com/g5PWnqp.png" tvg-chno="9" group-title="MBC - ام بي سي",MBC DRAMA
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698110.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lxWdjXG.png" tvg-chno="10" group-title="MBC - ام بي سي",MBC DRAMA PLUS
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698109.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LsfG5nLp/SHAHID-THAQAFEYYAH-4-K.png" tvg-chno="20" group-title="MBC - ام بي سي",MBC AlThaqafeyah
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720099.ts
-#EXTINF:-1 tvg-id="Bahrain TV.sa" tvg-logo="https://i.imgur.com/ZEUsGNl.png" group-title="GULF - الخليج",BAHRAIN ONE
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720092.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y21PZM4s/kuwait-tv-logo-7-C4-DB4-FA0-F-seeklogo-com.png" group-title="GULF - الخليج",KUWAIT 1
-https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/ktv2.png" group-title="GULF - الخليج",KUWAIT 2
-https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/naVEZtj.png" group-title="GULF - الخليج",KUWAIT ALQURAIN
-https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/alraitv.png" group-title="GULF - الخليج",KUWAIT ALRAI
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286656.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jg3VAxO.png" group-title="GULF - الخليج",KUWAIT ARABE
-https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/ktvethraa.png" group-title="GULF - الخليج",KUWAIT ATHRAA
-https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYJ5Q8YG/IMG-2243.png" group-title="GULF - الخليج",KUWAIT NEWS
-https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/ktvsport1.png" group-title="GULF - الخليج",KUWAIT SPORTS 1
-https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/ktvsport1.png" group-title="GULF - الخليج",KUWAIT SPORTS 2
-https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/omantvcultural.png" group-title="GULF - الخليج",OMAN MUBASHER
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720053.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/omantv.png" group-title="GULF - الخليج",OMAN ONE
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720051.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/omantv.png" group-title="GULF - الخليج",OMAN THAKAFIYAH
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720054.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/qatar-tv-ae.png" group-title="GULF - الخليج",QATAR 1
 http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286668.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/431ZBcc4/Qatar-2.png" group-title="GULF - الخليج",QATAR 2
@@ -201,6 +217,40 @@ http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286666.ts
 http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286664.ts
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/alrayyanoldtv.png" group-title="GULF - الخليج",QATAR ALRAYAN ALQADEEM
 http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286663.ts
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/05c16887-0b0f-4e38-9a46-a32a1ab91cb3?height=NaN&width=216&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",RABEH SAQR
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698060.ts
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/51da140c-00ea-45b9-a7a9-b9617ca26000?height=NaN&width=216&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",RASHED ALMAJED
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698059.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mJEGaQ8.png" group-title="ROTANA - روتانا",ROTANA +
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720049.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DLDfFpu.png" group-title="ROTANA - روتانا",ROTANA AFLAM+
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720048.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HOnRZaL.png" group-title="ROTANA - روتانا",ROTANA AMERICA
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720047.ts
+#EXTINF:-1 tvg-id="Rotana Cinema.sa" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="ROTANA - روتانا",ROTANA CINEMA KSA
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720046.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="ROTANA - روتانا",ROTANA CINEMA MASR
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720045.ts
+#EXTINF:-1 tvg-id="Rotana Classic.sa" tvg-logo="https://i.imgur.com/pMMUvkt.png" group-title="ROTANA - روتانا",ROTANA CLASSIC
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720044.ts
+#EXTINF:-1 tvg-id="Rotana Clip.sa" tvg-logo="https://i.imgur.com/nhREk0o.png" group-title="ROTANA - روتانا",ROTANA CLIP
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720043.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IlT8U6S.png" group-title="ROTANA - روتانا",ROTANA COMEDY
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720042.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/btnhPjZ.png" group-title="ROTANA - روتانا",ROTANA DRAMA
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720041.ts
+#EXTINF:-1 tvg-id="Rotana Khalijia.sa" tvg-logo="https://i.imgur.com/6HMluzv.png" group-title="ROTANA - روتانا",ROTANA KHALIJYAH
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720040.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YQKf0tq.png" group-title="ROTANA - روتانا",ROTANA KIDS
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720039.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ho8N310.png" group-title="ROTANA - روتانا",ROTANA M+
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720038.ts
+#EXTINF:-1 tvg-id="Rotana Music.sa" tvg-logo="https://i.imgur.com/2zFQbQi.png" group-title="ROTANA - روتانا",ROTANA MUSIC
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720037.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/rtdocumentary.png" group-title="DOCU - وثائقي",RT DOCU
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720034.ts
+#EXTINF:-1 tvg-id="RT Arabic.sa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/960px-Russia-today-logo.svg.png" group-title="NEWS - الاخبار",RT Today
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720033.ts
 #EXTINF:-1 tvg-id="Al Resalah.sa" tvg-logo="https://i.imgur.com/7o4HgrP.png" group-title="GULF - الخليج",SAUDI ALRESALAH
 http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720100.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTVxT477/Al-sahraa.gif" group-title="GULF - الخليج",SAUDI ALSAHRAA
@@ -215,10 +265,62 @@ http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720061.ts
 http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720030.ts
 #EXTINF:-1 tvg-id="SBC HD.sa" tvg-logo="https://i.imgur.com/9JSQglj.png" group-title="GULF - الخليج",SAUDI SBC
 http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720028.ts
+#EXTINF:-1 tvg-id="KSA Sports 1 HD.sa" tvg-logo="https://aloula.faulio.com/storage/mediagallery/36/f0/fullhd_7b5a1c62d4c0785dff72d85e41ade22b9478258b.png" group-title="AR SPORTS - الرياضه العربيه",SAUDI SPORTS 1
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720140.ts
+#EXTINF:-1 tvg-id="KSA Sports 2 HD.sa" tvg-logo="https://aloula.faulio.com/storage/mediagallery/57/09/fullhd_470ef56d4e496e82df1d74aca7edeef597b2e541.png" group-title="AR SPORTS - الرياضه العربيه",SAUDI SPORTS 2
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720139.ts
+#EXTINF:-1 tvg-id="KSA Sports 3 HD.sa" tvg-logo="https://aloula.faulio.com/storage/mediagallery/2d/ee/fullhd_f1d461237592b4d46c44a6f300df1d97051f7c55.png" group-title="AR SPORTS - الرياضه العربيه",SAUDI SPORTS 3
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720138.ts
 #EXTINF:-1 tvg-id="Al Sunnah Al Nabawiyah TV HD.sa" tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png" group-title="GULF - الخليج",SAUDI SUNNAH
 http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720029.ts
 #EXTINF:-1 tvg-id="Thekrayat HD.sa" tvg-logo="https://logo.m3uassets.com/thikrayattv.png" group-title="GULF - الخليج",SAUDI THEKRAYAT
 http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720015.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NIVhISa.png" group-title="MBC - ام بي سي",SHAHID ACTION
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698065.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cTLj7Yt.png" group-title="MBC - ام بي سي",SHAHID AFLAM
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698098.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="MBC - ام بي سي",SHAHID THRILLER
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698064.ts
+#EXTINF:-1 tvg-id="Sharjah Sport HD.sa" tvg-logo="https://i.postimg.cc/DzTYjYQL/Sharjah-sport-4-K.png" group-title="AR SPORTS - الرياضه العربيه",SHARJAH SPORTS
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720026.ts
+#EXTINF:-1 tvg-id="Sky News Arabia HD.sa" tvg-logo="https://i.imgur.com/NI2728P.png" group-title="NEWS - الاخبار",Sky News
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720023.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/alalamsyria.png" group-title="ARAB - عربي",SYR ALALM
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286054.ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4738.png?59551" group-title="ARAB - عربي",SYR ALEKHBARYA
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286076.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/alyaumtv.png" group-title="ARAB - عربي",SYR ALYAOM
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286055.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/halabtodaytv.png" group-title="ARAB - عربي",SYR HALAB TODAY
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286061.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/lanatv.png" group-title="ARAB - عربي",SYR LANA
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286068.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G17eCq6.png" group-title="ARAB - عربي",SYR NEWS
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286072.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/syriatv.png" group-title="ARAB - عربي",SYR SYRIA 1
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286064.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/syriatv.png" group-title="ARAB - عربي",SYR SYRIA 2
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286073.ts
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/36c50d62-e95c-4f85-8d32-8e517f5123fc?height=auto&width=144&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",TARAB
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698057.ts
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/8732de71-79e9-4915-a4a4-16297f9bd8a5?height=NaN&width=216&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",TASH
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698056.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/d/dd/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D8%A9_%28%D9%85%D9%86%D8%B5%D8%A9%29.svg/330px-%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D8%A9_%28%D9%85%D9%86%D8%B5%D8%A9%29.svg.png" group-title="THAMANYAH - ثمانية",THAMANYAH 1
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/322612.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/d/dd/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D8%A9_%28%D9%85%D9%86%D8%B5%D8%A9%29.svg/330px-%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D8%A9_%28%D9%85%D9%86%D8%B5%D8%A9%29.svg.png" group-title="THAMANYAH - ثمانية",THAMANYAH 2
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/322611.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/d/dd/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D8%A9_%28%D9%85%D9%86%D8%B5%D8%A9%29.svg/330px-%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D8%A9_%28%D9%85%D9%86%D8%B5%D8%A9%29.svg.png" group-title="THAMANYAH - ثمانية",THAMANYAH 3
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/326572.ts
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/6364fbe1-aa81-4d23-8d88-3fbc26c7f8f1?height=auto&width=144&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",THE GAME
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698076.ts
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/a74aaf7f-3548-4e68-8629-baeba4a1911e?height=auto&width=144&croppingPoint=&version=1&type=avif" group-title="MBC - ام بي سي",THE HOLY QURAN
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698055.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tlc.png" group-title="DOCU - وثائقي",TLC
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/570802.ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/travelchannel.png" group-title="DOCU - وثائقي",TRAVEL
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720012.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dEfI2M9.png" group-title="NEWS - الاخبار",TRT
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286339.ts
 #EXTINF:-1 tvg-id="Abu Dhabi TV HD.sa" tvg-logo="https://i.imgur.com/8DAriPs.png" group-title="GULF - الخليج",UAE ABU DHABI
 http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720116.ts
 #EXTINF:-1 tvg-id="Al Dafrah HD.sa" tvg-logo="https://i.imgur.com/sOMOe9t.png" group-title="GULF - الخليج",UAE ALDHAFRA
@@ -245,139 +347,47 @@ http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720011.ts
 http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720010.ts
 #EXTINF:-1 tvg-id="Zee Alwan.sa" tvg-logo="https://i.imgur.com/OLuCox7.png" group-title="GULF - الخليج",UAE ZEE ALWAN
 http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720009.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nationalgeographicabudhabi.png" group-title="DOCU - وثائقي",ABU DHABI NAT GEO
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720056.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W46Sxr0h/AL-MAJD-DOCUMENTARY.png" group-title="DOCU - وثائقي",ALAMAJD DOCU
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/270110.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/aljazeeradocumentary.png" group-title="DOCU - وثائقي",ALJAZEERA DOCU
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/270113.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4Nq8cXJN/Al-Wathaeqya.png" group-title="DOCU - وثائقي",ALWATHAEQYAH
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/270112.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/osnanimalplanet.png" group-title="DOCU - وثائقي",ANIMAL PLANET
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720097.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/asharqdiscovery.png" group-title="DOCU - وثائقي",ASHARQ DISCOVERY
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720095.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v6VsFEt.png" group-title="DOCU - وثائقي",ASHARQ DOCU
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720094.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/cgtndocumentary.png" group-title="DOCU - وثائقي",CGTN
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/270107.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/discovery.png" group-title="DOCU - وثائقي",DISCOVERY
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720079.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/discoveryfamily.png" group-title="DOCU - وثائقي",DISCOVERY FAMILY
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720078.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/250px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCU - وثائقي",DISCOVERY ID
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720077.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/foodnetwork.png" group-title="DOCU - وثائقي",FOOD NETWORK
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720067.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/hgtv.png" group-title="DOCU - وثائقي",HGTV
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720064.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/history.png" group-title="DOCU - وثائقي",HISTORY 1
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/590309.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/history2.png" group-title="DOCU - وثائقي",HISTORY 2
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/590308.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nationalgeographic.png" group-title="DOCU - وثائقي",NAT GEO
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720057.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/natgeowild.png" group-title="DOCU - وثائقي",NAT GEO WILD
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720055.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/rtdocumentary.png" group-title="DOCU - وثائقي",RT DOCU
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720034.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tlc.png" group-title="DOCU - وثائقي",TLC
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/570802.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/travelchannel.png" group-title="DOCU - وثائقي",TRAVEL
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720012.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nLtiXNf.png" group-title="MBC - ام بي سي",WANASA
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698052.ts
 #EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-logo="https://i.imgur.com/Vtk2cGI.png" tvg-chno="1" group-title="BEIN - بي ان",BEIN 1
 http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/285643.ts
+#EXTINF:-1 tvg-id="MBC 1.sa" tvg-logo="https://i.postimg.cc/P5YPRC3c/IMG-8508.png" tvg-chno="1" group-title="MBC - ام بي سي",MBC 1
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698115.ts
 #EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-logo="https://i.imgur.com/vUJZSvs.png" tvg-chno="2" group-title="BEIN - بي ان",BEIN 2
 http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/285642.ts
+#EXTINF:-1 tvg-id="MBC 2.sa" tvg-logo="https://i.imgur.com/n9mSHuP.png" tvg-chno="2" group-title="MBC - ام بي سي",MBC 2
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698114.ts
 #EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-logo="https://i.imgur.com/UYSMao3.png" tvg-chno="3" group-title="BEIN - بي ان",BEIN 3
 http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/285641.ts
+#EXTINF:-1 tvg-id="MBC 3.sa" tvg-logo="https://i.imgur.com/PVt8OPN.png" tvg-chno="3" group-title="MBC - ام بي سي",MBC 3
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698113.ts
 #EXTINF:-1 tvg-id="beIN SPORTS 4.qa" tvg-name="beINSports4.qa" tvg-logo="https://i.imgur.com/vwAgJNi.png" tvg-chno="4" group-title="BEIN - بي ان",BEIN 4
 http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/285640.ts
+#EXTINF:-1 tvg-id="MBC 4.sa" tvg-logo="https://i.imgur.com/BcXASJp.png" tvg-chno="4" group-title="MBC - ام بي سي",MBC 4
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698112.ts
 #EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-logo="https://i.imgur.com/2Rha5aY.png" tvg-chno="5" group-title="BEIN - بي ان",BEIN 5
 http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/285639.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fRWaDyF.png" tvg-chno="5" group-title="MBC - ام بي سي",MBC 5
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698111.ts
 #EXTINF:-1 tvg-id="beIN SPORTS 6.qa" tvg-logo="https://i.imgur.com/0wBdLYb.png" tvg-chno="6" group-title="BEIN - بي ان",BEIN 6
 http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/285638.ts
+#EXTINF:-1 tvg-id="MBC Action.sa" tvg-logo="https://i.imgur.com/OWZAghw.png" tvg-chno="6" group-title="MBC - ام بي سي",MBC ACTION
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698104.ts
 #EXTINF:-1 tvg-id="beIN SPORTS 7.qa" tvg-logo="https://i.imgur.com/iODFwZi.png" tvg-chno="7" group-title="BEIN - بي ان",BEIN 7
 http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/285637.ts
+#EXTINF:-1 tvg-id="MBC Bollywood.sa" tvg-logo="https://i.imgur.com/TTAGFHG.png" tvg-chno="7" group-title="MBC - ام بي سي",MBC BOLLYWOOD
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698103.ts
 #EXTINF:-1 tvg-id="beIN SPORTS 8.qa" tvg-logo="https://i.imgur.com/CaFEyVn.png" tvg-chno="8" group-title="BEIN - بي ان",BEIN 8
 http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/285636.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A02CptP.png" tvg-chno="8" group-title="MBC - ام بي سي",MBC MAX
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698101.ts
+#EXTINF:-1 tvg-id="MBC Drama.sa" tvg-logo="https://i.imgur.com/g5PWnqp.png" tvg-chno="9" group-title="MBC - ام بي سي",MBC DRAMA
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698110.ts
 #EXTINF:-1 tvg-id="beIN 4K.qa" tvg-logo="https://i.imgur.com/TTxh9tZ.png" tvg-chno="9" group-title="BEIN - بي ان",Strong - BEIN 4K
 http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/285718.ts
 #EXTINF:-1 tvg-id="beIN 4K.qa" tvg-logo="https://i.imgur.com/TTxh9tZ.png" tvg-chno="10" group-title="BEIN - بي ان",BE - BEIN 4K
 http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/710319.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QMUjPXx.png" group-title="ARAB - عربي",LEB ALITIHAD
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286082.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/aljadeed.png" group-title="ARAB - عربي",LEB ALJADEED
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286110.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/almanar.png" group-title="ARAB - عربي",LEB ALMANAR
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286087.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/almayadeentv.png" group-title="ARAB - عربي",LEB ALMAYADEEN
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286084.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/futuretv.png" group-title="ARAB - عربي",LEB FUTURE
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286083.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/halalondon.png" group-title="ARAB - عربي",LEB HALA LONDON
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286080.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/ifilmarabic.png" group-title="ARAB - عربي",LEB IFILM
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286081.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/lbc.png" group-title="ARAB - عربي",LEB LBC
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286095.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/mtvlebanon.png" group-title="ARAB - عربي",LEB MTV
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286108.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nbn.png" group-title="ARAB - عربي",LEB NBN
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286106.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/onetv.png" group-title="ARAB - عربي",LEB ONE TV
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286104.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/otv.png" group-title="ARAB - عربي",LEB OTV
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286102.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bWwY885.png" group-title="ARAB - عربي",LEB RED
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/477245.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/itele.png" group-title="ARAB - عربي",LEB TELE
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286100.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrxKb0JX/IMG-8585.png" group-title="ARAB - عربي",LEB THAQALAYN
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286085.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/alalamsyria.png" group-title="ARAB - عربي",SYR ALALM
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286054.ts
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4738.png?59551" group-title="ARAB - عربي",SYR ALEKHBARYA
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286076.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/alyaumtv.png" group-title="ARAB - عربي",SYR ALYAOM
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286055.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/halabtodaytv.png" group-title="ARAB - عربي",SYR HALAB TODAY
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286061.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/lanatv.png" group-title="ARAB - عربي",SYR LANA
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286068.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G17eCq6.png" group-title="ARAB - عربي",SYR NEWS
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286072.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/syriatv.png" group-title="ARAB - عربي",SYR SYRIA 1
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286064.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/syriatv.png" group-title="ARAB - عربي",SYR SYRIA 2
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/286073.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/10mmlha.png" group-title="AR SPORTS - الرياضه العربيه",ALKASS 1
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/268327.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="AR SPORTS - الرياضه العربيه",ALKASS 2
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/268326.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d57BdFh.png" group-title="AR SPORTS - الرياضه العربيه",ALKASS 3
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/268325.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="AR SPORTS - الرياضه العربيه",ALKASS 4
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/268324.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6RGNGsM.png" group-title="AR SPORTS - الرياضه العربيه",ALKASS 5
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/268323.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CrPSPSC.png" group-title="AR SPORTS - الرياضه العربيه",ALKASS 6
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/268322.ts
-#EXTINF:-1 tvg-id="Dubai Racing 1 HD.sa" tvg-logo="https://i.imgur.com/CJ1dagP.png" group-title="AR SPORTS - الرياضه العربيه",DUBAI RACING 1
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720072.ts
-#EXTINF:-1 tvg-id="Dubai Racing 2 HD.sa" tvg-logo="https://i.imgur.com/CJ1dagP.png" group-title="AR SPORTS - الرياضه العربيه",DUBAI RACING 2
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720071.ts
-#EXTINF:-1 tvg-id="Dubai Sports 1 HD.sa" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/dubai-sports-tv-ae.png" group-title="AR SPORTS - الرياضه العربيه",DUBAI SPORTS 1
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720070.ts
-#EXTINF:-1 tvg-id="Dubai Sports 2 HD.sa" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/dubai-sports-tv-ae.png" group-title="AR SPORTS - الرياضه العربيه",DUBAI SPORTS 2
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720069.ts
-#EXTINF:-1 tvg-id="Oman TV Sport.sa" tvg-logo="https://i.imgur.com/1omi7p8.png" group-title="AR SPORTS - الرياضه العربيه",OMAN SPORTS
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720052.ts
-#EXTINF:-1 tvg-id="KSA Sports 1 HD.sa" tvg-logo="https://aloula.faulio.com/storage/mediagallery/36/f0/fullhd_7b5a1c62d4c0785dff72d85e41ade22b9478258b.png" group-title="AR SPORTS - الرياضه العربيه",SAUDI SPORTS 1
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720140.ts
-#EXTINF:-1 tvg-id="KSA Sports 2 HD.sa" tvg-logo="https://aloula.faulio.com/storage/mediagallery/57/09/fullhd_470ef56d4e496e82df1d74aca7edeef597b2e541.png" group-title="AR SPORTS - الرياضه العربيه",SAUDI SPORTS 2
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720139.ts
-#EXTINF:-1 tvg-id="KSA Sports 3 HD.sa" tvg-logo="https://aloula.faulio.com/storage/mediagallery/2d/ee/fullhd_f1d461237592b4d46c44a6f300df1d97051f7c55.png" group-title="AR SPORTS - الرياضه العربيه",SAUDI SPORTS 3
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720138.ts
-#EXTINF:-1 tvg-id="Sharjah Sport HD.sa" tvg-logo="https://i.postimg.cc/DzTYjYQL/Sharjah-sport-4-K.png" group-title="AR SPORTS - الرياضه العربيه",SHARJAH SPORTS
-http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720026.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lxWdjXG.png" tvg-chno="10" group-title="MBC - ام بي سي",MBC DRAMA PLUS
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/698109.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LsfG5nLp/SHAHID-THAQAFEYYAH-4-K.png" tvg-chno="20" group-title="MBC - ام بي سي",MBC AlThaqafeyah
+http://newleo.live/live/a15e5b4ccd/4cb6fd30b4/720099.ts
